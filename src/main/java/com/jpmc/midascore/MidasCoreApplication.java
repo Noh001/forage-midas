@@ -9,7 +9,5 @@ public class MidasCoreApplication {
     public static void main(String[] args) {
         SpringApplication.run(MidasCoreApplication.class, args);
     }
-general:
-  kafka-topic: trader-updates
 
 }
